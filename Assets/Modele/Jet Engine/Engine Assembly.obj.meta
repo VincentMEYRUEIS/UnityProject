@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: 3a7c81c0631f4224e8b170f01678ce44
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide10Mat
+    second: {fileID: 2100000, guid: 4b0d58a9a3461854798bad750687a2c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide10_1Mat
+    second: {fileID: 2100000, guid: 02757d2e43276554ba21c28b2679ddbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide10_2Mat
+    second: {fileID: 2100000, guid: 0708cef29c9ad224caddbd192751bb66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide10_3Mat
+    second: {fileID: 2100000, guid: 6385973d5c6ea394395b4f2a609ae749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide10_4Mat
+    second: {fileID: 2100000, guid: bc84ef991a2f50b4f9b54ee4a7174752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide10_5Mat
+    second: {fileID: 2100000, guid: cda746c914abb704498c5a888a9f40d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide11Mat
+    second: {fileID: 2100000, guid: 3ae6574a729f6164fbc81ae26fc545e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1Mat
+    second: {fileID: 2100000, guid: 56eaef6c12b6d6d498cd8ea5afe75006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_10Mat
+    second: {fileID: 2100000, guid: 2bd7b5bdb1580184999a10fead2961ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_11Mat
+    second: {fileID: 2100000, guid: 37cf8b80ae2e2df478debfc401b6eaf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_12Mat
+    second: {fileID: 2100000, guid: 375fa77bcc790184caab202a662675a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_13Mat
+    second: {fileID: 2100000, guid: 998bb1f2d07e34c4d9b12aee7bc2cd16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_14Mat
+    second: {fileID: 2100000, guid: 14c75e29328412a4ebf3fb707721fad9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_15Mat
+    second: {fileID: 2100000, guid: cb6111301ce2c2243bbfc92fee4229ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_16Mat
+    second: {fileID: 2100000, guid: ebc7ab1f07ebaaf4fb9863079b6ac66a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_17Mat
+    second: {fileID: 2100000, guid: 162e40099594ed44ba41e0cce4d36f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_18Mat
+    second: {fileID: 2100000, guid: e4155b4d7ba07c4438bf0d6408328dae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_19Mat
+    second: {fileID: 2100000, guid: 0596274ed98c2ea46ae3b21f37012c8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_1Mat
+    second: {fileID: 2100000, guid: aa9e19bda7083834f8f3b371bf9537a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_20Mat
+    second: {fileID: 2100000, guid: 50c8b82f6bb32924995a7298336e0dfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_21Mat
+    second: {fileID: 2100000, guid: 55d7719c784d4cc4a88ae3da4d1e3cd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_22Mat
+    second: {fileID: 2100000, guid: 5897d1fe8bbc27b48ac11b8897fd4914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_23Mat
+    second: {fileID: 2100000, guid: c76ba3bfba3f77640bb2ae2a4abd036f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_24Mat
+    second: {fileID: 2100000, guid: 2c3b9e8f63c60594bb2720e5be7baf2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_25Mat
+    second: {fileID: 2100000, guid: 5525dae45591c604a947e8410c641593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_26Mat
+    second: {fileID: 2100000, guid: 0e7e3f7b35ee79744a7f29a0bcac88b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_27Mat
+    second: {fileID: 2100000, guid: 4b0fa739ac96f74488ac7b56d417739e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_28Mat
+    second: {fileID: 2100000, guid: 1b10f490c94373247b8f3d8bf40655dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_29Mat
+    second: {fileID: 2100000, guid: e0a0f94f4b4e32949b4c94828b216e53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_2Mat
+    second: {fileID: 2100000, guid: 08a4974b06e8618429bd1fdd19c70397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_30Mat
+    second: {fileID: 2100000, guid: da92e622c3146d04ea5463ed91ccc73e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_31Mat
+    second: {fileID: 2100000, guid: ad24f3a345fb4d444b8b1c136f124535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_32Mat
+    second: {fileID: 2100000, guid: ae58c58c0cb9faa438820f1c424b0fa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_33Mat
+    second: {fileID: 2100000, guid: 074f29cda482229468335c9ec617da0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_34Mat
+    second: {fileID: 2100000, guid: 18f7cff4db65af14580c797d98fa9b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_35Mat
+    second: {fileID: 2100000, guid: 952a1b6b2d3f1ec479a8187160b20b38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_36Mat
+    second: {fileID: 2100000, guid: fcab8dda2e9eea1478184aa3b91cd7ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_37Mat
+    second: {fileID: 2100000, guid: 3d74df0b744612648a08d16121d54623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_38Mat
+    second: {fileID: 2100000, guid: bcfe12cfbf9491745aa488291047bf0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_39Mat
+    second: {fileID: 2100000, guid: d81c593009e9248418b7909d2e792988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_3Mat
+    second: {fileID: 2100000, guid: fa5a00b8ed23f4d439c117fdde1e3ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_40Mat
+    second: {fileID: 2100000, guid: d977ecdb893d56c4c9c884348939b81b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_41Mat
+    second: {fileID: 2100000, guid: f159a08c197cff64eac06338ed6797ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_42Mat
+    second: {fileID: 2100000, guid: 683a4c5a4e44c0342a3066a526a5c321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_43Mat
+    second: {fileID: 2100000, guid: 756ddcbe9f7bad04d9d552c9e4126398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_44Mat
+    second: {fileID: 2100000, guid: cd4f83d450702fb46b14da073c38b44a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_45Mat
+    second: {fileID: 2100000, guid: fb81765d791599c49a68eba1bbc445b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_46Mat
+    second: {fileID: 2100000, guid: 4d656f7b433fff74db1dd35eb265d24c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_47Mat
+    second: {fileID: 2100000, guid: 54307b53112ac1d4e8b7bf4e1d95365b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_48Mat
+    second: {fileID: 2100000, guid: 028a176d06a81db48ba01c60970ff59d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_49Mat
+    second: {fileID: 2100000, guid: a6b28c96f14c8744f9b4c28c79590276, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_4Mat
+    second: {fileID: 2100000, guid: d5dcd12b3dfbd194e9c7e90698dfa5ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_50Mat
+    second: {fileID: 2100000, guid: 79280833bb8ade048ac78b23b08bd7cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_51Mat
+    second: {fileID: 2100000, guid: 5b69a035ffd18344f9458387f4958d11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_52Mat
+    second: {fileID: 2100000, guid: 24875c3532ef1fc4d99277d7f91565f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_53Mat
+    second: {fileID: 2100000, guid: 7aba5b180a9a7614686af4b81c533d29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_54Mat
+    second: {fileID: 2100000, guid: 7cdce934238b3dc47ad20fca3221a19b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_55Mat
+    second: {fileID: 2100000, guid: 9cb2add6219d6c14a948768ff04ecc48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_56Mat
+    second: {fileID: 2100000, guid: f72ab2e1c931a3b43b40447cfae3d959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_57Mat
+    second: {fileID: 2100000, guid: 86b902ade29504d4c8bcae33f53eb836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_58Mat
+    second: {fileID: 2100000, guid: 7b99f37804470ef4d88c1d0036d76a25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_59Mat
+    second: {fileID: 2100000, guid: 2ee67b02f27bf334c827301f8fa7e38e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_5Mat
+    second: {fileID: 2100000, guid: d2ada48b073cdb24ab64e15576301f84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_6Mat
+    second: {fileID: 2100000, guid: 934ca492ec7a10a4baae6bcca05ec797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_7Mat
+    second: {fileID: 2100000, guid: bb121d22f4808ac4288b4b6c0e154c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_8Mat
+    second: {fileID: 2100000, guid: 714a72af9ae6cab4a894141777d0b695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide1_9Mat
+    second: {fileID: 2100000, guid: a48b60bb135407e46b7a6eb21a2f6373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2Mat
+    second: {fileID: 2100000, guid: 35fb99d8158ddfd4b9a44a54ea188272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2_10Mat
+    second: {fileID: 2100000, guid: 9629cc3b263a91e47aa0e3176aab5f6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2_1Mat
+    second: {fileID: 2100000, guid: 5721a419ff6c35b43b61924ada7bc799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2_2Mat
+    second: {fileID: 2100000, guid: 43f52c37b31f6a943841c140183c22ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2_3Mat
+    second: {fileID: 2100000, guid: 7f255ec50c125ea44804411ce558b507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2_4Mat
+    second: {fileID: 2100000, guid: d86b14a781cce6a46a8a1dc3f36d3b03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2_5Mat
+    second: {fileID: 2100000, guid: a10ab3028476ef241becc102f8a3c24d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2_6Mat
+    second: {fileID: 2100000, guid: 559539a81b03266418437802969245bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2_7Mat
+    second: {fileID: 2100000, guid: d62a3c61345764543baa144212268fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2_8Mat
+    second: {fileID: 2100000, guid: 2e4ae8b946288554e803a7b9cdd0697e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide2_9Mat
+    second: {fileID: 2100000, guid: f7bc94e1e8d3ef2469cfd65c2a4fc666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide3Mat
+    second: {fileID: 2100000, guid: d3695b72b0fc6ce499076b94fa43d6d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide3_1Mat
+    second: {fileID: 2100000, guid: 707504ed059872942ba6c274f91a1a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide3_2Mat
+    second: {fileID: 2100000, guid: 2512f6ad71344e941b701c0ff26d2900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide3_3Mat
+    second: {fileID: 2100000, guid: 1b4704bc1fe5c00469b08287a3859538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide3_4Mat
+    second: {fileID: 2100000, guid: f74b809e40719d64eb3eb03864dcfc24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide3_5Mat
+    second: {fileID: 2100000, guid: 2479ccb015386614b90493d5d733b99f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide3_6Mat
+    second: {fileID: 2100000, guid: 29b6bdd53ff7ec84990c583af14faf9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide3_7Mat
+    second: {fileID: 2100000, guid: 75a92fae7e69eff44bce2e90147c4489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide3_8Mat
+    second: {fileID: 2100000, guid: 58e685b941c831c42bde71c19594ceb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide4Mat
+    second: {fileID: 2100000, guid: d2f38091cabd23f4da1242235c9de2a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide4_1Mat
+    second: {fileID: 2100000, guid: 898d10fdc27e6184dbd1223e380fdc86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide4_2Mat
+    second: {fileID: 2100000, guid: 396fdaf2666858249a0a93b55ef5eea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide4_3Mat
+    second: {fileID: 2100000, guid: 6de462ed0205db845a0e4aefe9803651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide4_4Mat
+    second: {fileID: 2100000, guid: 72fa5c78b3c0b8d42bb4cd4ed147520a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide4_5Mat
+    second: {fileID: 2100000, guid: f444d13e96db24d4080b97725b40220a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide4_6Mat
+    second: {fileID: 2100000, guid: 05c42973743d00740b7df7b3794a02fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide4_7Mat
+    second: {fileID: 2100000, guid: 698686da2480f3d489caf713879df86f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide5Mat
+    second: {fileID: 2100000, guid: 1ce0e9acdcb1de44fb53ce949206de07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide5_1Mat
+    second: {fileID: 2100000, guid: bfda7b381808fd14f98e10f1b6579368, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide5_2Mat
+    second: {fileID: 2100000, guid: 9790d84f87e7890418d8e2f5ebd60bc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide5_3Mat
+    second: {fileID: 2100000, guid: fa94a9da30119354594389d4c215ce0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide5_4Mat
+    second: {fileID: 2100000, guid: c56611402db4c124da06df606ff5c4a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide5_5Mat
+    second: {fileID: 2100000, guid: ddf863c5ffe70db4c98e9c1fce9b2369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide5_6Mat
+    second: {fileID: 2100000, guid: 95a6e48b8ea89cb478bfa9ccb86bf191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide5_7Mat
+    second: {fileID: 2100000, guid: 90345993705b89044b23a8d0c8b154c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide6Mat
+    second: {fileID: 2100000, guid: f21955c7a106da743840564f6d249258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide6_1Mat
+    second: {fileID: 2100000, guid: 1db211b029e9cb94fae39bcb7fdcf19a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide6_2Mat
+    second: {fileID: 2100000, guid: ee4a5cece2db7a640862aac19adad8cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide6_3Mat
+    second: {fileID: 2100000, guid: 351f980eb3219264992f4bf6ae68685a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide6_4Mat
+    second: {fileID: 2100000, guid: 538f51ecaf7e33e45bffaff43225626b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide6_5Mat
+    second: {fileID: 2100000, guid: 5009e1033da6b37408669531266f669a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide6_6Mat
+    second: {fileID: 2100000, guid: 23cf93ac11daae640a89f6c36e50f873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide7Mat
+    second: {fileID: 2100000, guid: fbc855a91bf288648bd1a71c38ad7b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide7_1Mat
+    second: {fileID: 2100000, guid: fe0c661106fc7a44693fb857dbfce043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide7_2Mat
+    second: {fileID: 2100000, guid: bb357d2b0adf30c40b951f2626ad0c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide7_3Mat
+    second: {fileID: 2100000, guid: 5ca6796f2f79d684f886b9c6ffdb0d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide7_4Mat
+    second: {fileID: 2100000, guid: c03de48c96cde664abed4ff300c3c764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide7_5Mat
+    second: {fileID: 2100000, guid: 957776a4bb479bd4d91a4a6d5b356baf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide7_6Mat
+    second: {fileID: 2100000, guid: ef9fb77616874f446ac9688037b31ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide8Mat
+    second: {fileID: 2100000, guid: 8f7c16b4118b1e04c8605880730f8037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide8_1Mat
+    second: {fileID: 2100000, guid: 8109cf441ca69b242b0a0beb609fa9e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide8_2Mat
+    second: {fileID: 2100000, guid: cf5554b9810fbdf4f87255b99e586749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide8_3Mat
+    second: {fileID: 2100000, guid: 5f78b4e1a09f24b49b67c5e0fe126de5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide8_4Mat
+    second: {fileID: 2100000, guid: 2c8d0bfc4aaf70648aeee209c7d6e50b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide8_5Mat
+    second: {fileID: 2100000, guid: e553f80ad06682b4397e0b767c493d3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide8_6Mat
+    second: {fileID: 2100000, guid: 054f92abf636ae44fb20b286e9f3ee00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide9Mat
+    second: {fileID: 2100000, guid: 7f55f30537afac94e89dd04de52b3c86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide9_1Mat
+    second: {fileID: 2100000, guid: aaaec6a4a89121847ad3015672a4e0de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide9_2Mat
+    second: {fileID: 2100000, guid: eac9afbf6617cd1409b165772d26a4bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide9_3Mat
+    second: {fileID: 2100000, guid: 0a6d8e5e623b770488a7a248c94d1c51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide9_4Mat
+    second: {fileID: 2100000, guid: c381da53f9a5f154aae6b0f953f4300c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide9_5Mat
+    second: {fileID: 2100000, guid: da9fd82cbc441b5469f13aa2cb0a0e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solide9_6Mat
+    second: {fileID: 2100000, guid: 5f77f815ad055304aafc6ea4347983d1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
